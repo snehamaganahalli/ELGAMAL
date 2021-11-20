@@ -4,12 +4,15 @@ ELGAMAL Encryption and Decryption
 
 **Steps:**
 1) Sync the code to local
+
 git clone https://github.com/snehamaganahalli/ELGAMAL.git
 
 2) Compile the code.
+
 gcc main.c -lgmp -g -o main
 
 3) Execute
+
 ./main
 
 
