@@ -38,6 +38,8 @@ Decrpyted message: 34
 
 ===============================================================================================================================
 
-**Name: Sneha Maganahalli
-Roll No: CS21M522
-Assignment 4**
+**Name: Sneha Maganahalli**
+
+**Roll No: CS21M522**
+
+**Assignment 4**
