@@ -9,6 +9,8 @@ git clone https://github.com/snehamaganahalli/ELGAMAL.git
 
 2) Compile the code.
 
+sudo apt-get install libgmp3-dev // Install gmp library is not installed
+
 gcc main.c -lgmp -g -o main
 
 3) Execute
